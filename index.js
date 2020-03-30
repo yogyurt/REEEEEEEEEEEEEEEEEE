@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
  
-const token = 'Njk0MTIyMTU1NTUzODQ5MzY0.XoH3hQ.zsr2oyMRrIP1mlkkIA2sMPG40Z0' ;
+const token = '' ;
  
 const SUFFIX = 'ine';
 
